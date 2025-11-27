@@ -152,18 +152,6 @@ git clone https://github.com/Mood07/Hotel-Booking-and-Management-Platform.git
 
 ---
 
-## 📸 Screenshots
-
-### Homepage
-
-![Homepage](https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800)
-
-### Admin Dashboard
-
-![Admin](https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800)
-
----
-
 ## 👨‍💻 Author
 
 **Berke Arda Türk**  
