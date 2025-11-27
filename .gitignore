@@ -1,0 +1,58 @@
+# IDE & Build files
+.vs/
+*.ipch
+*.pch
+*.suo
+*.user
+*.cache
+*.ilk
+.idea/
+.vscode/
+
+# Build files
+bin/
+obj/
+Debug/
+Release/
+
+# Database files
+*.mdf
+*.ldf
+
+# Config with credentials (use config.example.php as template)
+HBWEBSITE/inc/config.php
+
+# Uploads (user content)
+HBWEBSITE/uploads/rooms/*
+HBWEBSITE/uploads/carousel/*
+!HBWEBSITE/uploads/rooms/.gitkeep
+!HBWEBSITE/uploads/carousel/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+*~
+
+# PHP
+vendor/
+composer.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Test files
+test_*.php
