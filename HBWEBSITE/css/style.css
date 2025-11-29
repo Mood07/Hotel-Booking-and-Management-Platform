@@ -405,3 +405,9 @@ footer .social-links a:hover {
 ::-webkit-scrollbar-thumb:hover {
     background: var(--accent-hover);
 }
+
+/* Custom Backgrounds */
+.bg-gradient-primary {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%) !important;
+    color: var(--white);
+}

@@ -43,7 +43,7 @@ $features = select("SELECT * FROM features");
 </div>
 
 <!-- CTA Section -->
-<section class="py-5 bg-primary text-white text-center">
+<section class="py-5 bg-gradient-primary text-white text-center">
   <div class="container">
     <h3 class="mb-3">Ready to Experience Our Facilities?</h3>
     <p class="mb-4">Book your stay now and enjoy our premium amenities</p>
