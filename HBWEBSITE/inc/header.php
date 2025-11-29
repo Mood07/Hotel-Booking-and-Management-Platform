@@ -16,14 +16,16 @@ $settings = getSettings();
   <!-- Bootstrap Icons -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet">
   <!-- Custom CSS -->
   <link rel="stylesheet" href="<?php echo SITE_URL; ?>css/style.css">
 </head>
 
 <body>
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top">
+  <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
     <div class="container">
       <a class="navbar-brand fw-bold" href="<?php echo SITE_URL; ?>">
         <i class="bi bi-building"></i> <?php echo $settings['site_title'] ?? 'Grand Hotel'; ?>

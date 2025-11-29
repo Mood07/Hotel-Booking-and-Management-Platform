@@ -104,15 +104,15 @@ require_once 'inc/header.php';
   <div class="row g-4 justify-content-center">
     <div class="col-md-4 col-lg-3">
       <div class="card text-center h-100">
-        <img src="https://tr.web.img2.acsta.net/c_310_420/pictures/20/12/28/09/07/1817655.jpg"
-          class="card-img-top" alt="Aleyna Tilki" style="height: 250px; object-fit: cover;">
+        <img src="https://randomuser.me/api/portraits/women/44.jpg"
+          class="card-img-top" alt="Sarah Mitchell" style="height: 250px; object-fit: cover;">
         <div class="card-body">
-          <h5 class="card-title mb-1">Aleyna Tilki</h5>
-          <p class="text-primary mb-2">Chief Vibes Officer</p>
+          <h5 class="card-title mb-1">Sarah Mitchell</h5>
+          <p class="text-primary mb-2">Guest Relations Manager</p>
           <p class="small text-muted mb-2">"Cevapsız Çınlama? No, we always answer at Grand Hotel!" 🎤</p>
           <div class="d-flex justify-content-center gap-2">
-            <a href="#" class="text-muted"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="text-muted"><i class="bi bi-spotify"></i></a>
+            <a href="#" class="text-muted"><i class="bi bi-linkedin"></i></a>
+            <a href="#" class="text-muted"><i class="bi bi-envelope"></i></a>
           </div>
         </div>
       </div>
